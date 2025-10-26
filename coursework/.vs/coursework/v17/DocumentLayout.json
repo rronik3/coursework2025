@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Study\\\u041F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0410\u0406\u0421\\coursework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCF69D1-E294-4120-8F16-EFC395E617DE}|coursework\\coursework.csproj|g:\\study\\\u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0430\u0456\u0441\\coursework\\coursework\\recipedetailswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCF69D1-E294-4120-8F16-EFC395E617DE}|coursework\\coursework.csproj|solutionrelative:coursework\\recipedetailswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCF69D1-E294-4120-8F16-EFC395E617DE}|coursework\\coursework.csproj|g:\\study\\\u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0430\u0456\u0441\\coursework\\coursework\\recipedetailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EBCF69D1-E294-4120-8F16-EFC395E617DE}|coursework\\coursework.csproj|solutionrelative:coursework\\recipedetailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCF69D1-E294-4120-8F16-EFC395E617DE}|coursework\\coursework.csproj|g:\\study\\\u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0430\u0456\u0441\\coursework\\coursework\\addeditrecipewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCF69D1-E294-4120-8F16-EFC395E617DE}|coursework\\coursework.csproj|solutionrelative:coursework\\addeditrecipewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCF69D1-E294-4120-8F16-EFC395E617DE}|coursework\\coursework.csproj|g:\\study\\\u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0430\u0456\u0441\\coursework\\coursework\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EBCF69D1-E294-4120-8F16-EFC395E617DE}|coursework\\coursework.csproj|solutionrelative:coursework\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCF69D1-E294-4120-8F16-EFC395E617DE}|coursework\\coursework.csproj|g:\\study\\\u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0430\u0456\u0441\\coursework\\coursework\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCF69D1-E294-4120-8F16-EFC395E617DE}|coursework\\coursework.csproj|solutionrelative:coursework\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCF69D1-E294-4120-8F16-EFC395E617DE}|coursework\\coursework.csproj|g:\\study\\\u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0430\u0456\u0441\\coursework\\coursework\\addeditrecipewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EBCF69D1-E294-4120-8F16-EFC395E617DE}|coursework\\coursework.csproj|solutionrelative:coursework\\addeditrecipewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCF69D1-E294-4120-8F16-EFC395E617DE}|coursework\\coursework.csproj|g:\\study\\\u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0430\u0456\u0441\\coursework\\coursework\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EBCF69D1-E294-4120-8F16-EFC395E617DE}|coursework\\coursework.csproj|solutionrelative:coursework\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCF69D1-E294-4120-8F16-EFC395E617DE}|coursework\\coursework.csproj|g:\\study\\\u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0430\u0456\u0441\\coursework\\coursework\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCF69D1-E294-4120-8F16-EFC395E617DE}|coursework\\coursework.csproj|solutionrelative:coursework\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCF69D1-E294-4120-8F16-EFC395E617DE}|coursework\\coursework.csproj|g:\\study\\\u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0430\u0456\u0441\\coursework\\coursework\\recipecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCF69D1-E294-4120-8F16-EFC395E617DE}|coursework\\coursework.csproj|solutionrelative:coursework\\recipecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "G:\\Study\\\u041F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0410\u0406\u0421\\coursework\\coursework\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "coursework\\LoginWindow.xaml",
+              "ToolTip": "G:\\Study\\\u041F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0410\u0406\u0421\\coursework\\coursework\\LoginWindow.xaml",
+              "RelativeToolTip": "coursework\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-21T20:29:39.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "G:\\Study\\\u041F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0410\u0406\u0421\\coursework\\coursework\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "coursework\\LoginWindow.xaml.cs",
+              "ToolTip": "G:\\Study\\\u041F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0410\u0406\u0421\\coursework\\coursework\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "coursework\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T19:51:14.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddEditRecipeWindow.xaml.cs",
+              "DocumentMoniker": "G:\\Study\\\u041F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0410\u0406\u0421\\coursework\\coursework\\AddEditRecipeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "coursework\\AddEditRecipeWindow.xaml.cs",
+              "ToolTip": "G:\\Study\\\u041F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0410\u0406\u0421\\coursework\\coursework\\AddEditRecipeWindow.xaml.cs",
+              "RelativeToolTip": "coursework\\AddEditRecipeWindow.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAewAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T19:50:33.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecipeDetailsWindow.xaml.cs",
+              "DocumentMoniker": "G:\\Study\\\u041F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0410\u0406\u0421\\coursework\\coursework\\RecipeDetailsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "coursework\\RecipeDetailsWindow.xaml.cs",
+              "ToolTip": "G:\\Study\\\u041F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0410\u0406\u0421\\coursework\\coursework\\RecipeDetailsWindow.xaml.cs",
+              "RelativeToolTip": "coursework\\RecipeDetailsWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T18:38:27.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecipeDetailsWindow.xaml",
+              "DocumentMoniker": "G:\\Study\\\u041F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0410\u0406\u0421\\coursework\\coursework\\RecipeDetailsWindow.xaml",
+              "RelativeDocumentMoniker": "coursework\\RecipeDetailsWindow.xaml",
+              "ToolTip": "G:\\Study\\\u041F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0410\u0406\u0421\\coursework\\coursework\\RecipeDetailsWindow.xaml",
+              "RelativeToolTip": "coursework\\RecipeDetailsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-21T13:15:58.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddEditRecipeWindow.xaml",
+              "DocumentMoniker": "G:\\Study\\\u041F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0410\u0406\u0421\\coursework\\coursework\\AddEditRecipeWindow.xaml",
+              "RelativeDocumentMoniker": "coursework\\AddEditRecipeWindow.xaml",
+              "ToolTip": "G:\\Study\\\u041F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0410\u0406\u0421\\coursework\\coursework\\AddEditRecipeWindow.xaml",
+              "RelativeToolTip": "coursework\\AddEditRecipeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-21T19:05:22.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "G:\\Study\\\u041F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0410\u0406\u0421\\coursework\\coursework\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "coursework\\MainWindow.xaml",
+              "ToolTip": "G:\\Study\\\u041F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0410\u0406\u0421\\coursework\\coursework\\MainWindow.xaml",
+              "RelativeToolTip": "coursework\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-26T19:19:20.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RecipeContext.cs",
+              "DocumentMoniker": "G:\\Study\\\u041F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0410\u0406\u0421\\coursework\\coursework\\RecipeContext.cs",
+              "RelativeDocumentMoniker": "coursework\\RecipeContext.cs",
+              "ToolTip": "G:\\Study\\\u041F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0410\u0406\u0421\\coursework\\coursework\\RecipeContext.cs",
+              "RelativeToolTip": "coursework\\RecipeContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T20:00:50.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "G:\\Study\\\u041F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0410\u0406\u0421\\coursework\\coursework\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "coursework\\MainWindow.xaml.cs",
+              "ToolTip": "G:\\Study\\\u041F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F \u0410\u0406\u0421\\coursework\\coursework\\MainWindow.xaml.cs",
+              "RelativeToolTip": "coursework\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T19:19:15.788Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

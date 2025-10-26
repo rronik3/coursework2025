@@ -1,0 +1,22 @@
+﻿<Window x:Class="coursework.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:coursework"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        WindowStartupLocation="CenterScreen"
+        Style="{StaticResource MaterialDesignWindow}"
+        mc:Ignorable="d"
+        Title="Вхід у систему" Height="300" Width="300">
+    <StackPanel Margin="20">
+        <TextBox x:Name="UsernameBox" 
+                 materialDesign:HintAssist.Hint="Ім'я користувача" Margin="0,10"/>
+        <PasswordBox x:Name="PasswordBox" Margin="0,10"
+                     materialDesign:HintAssist.Hint="Пароль"/>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,20,0,0">
+            <Button Content="Увійти" Width="100" Margin="5" Click="Login_Click"/>
+            <Button Content="Реєстрація" Width="105" Margin="5" Click="Register_Click"/>
+        </StackPanel>
+    </StackPanel>
+</Window>

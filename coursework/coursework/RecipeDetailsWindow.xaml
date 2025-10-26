@@ -1,0 +1,39 @@
+﻿<Window x:Class="coursework.RecipeDetailsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        WindowStartupLocation="CenterScreen"
+        Title="Деталі рецепта" Height="400" Width="600">
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Ліва частина з текстовою інформацією -->
+        <ScrollViewer Grid.Column="0" Margin="0,0,10,0" VerticalScrollBarVisibility="Auto">
+            <StackPanel>
+                <TextBlock Text="Назва:" FontWeight="Bold"/>
+                <TextBox Text="{Binding Title}" IsReadOnly="True" Margin="0,0,0,10"/>
+                <TextBlock Text="Категорія:" FontWeight="Bold"/>
+                <TextBox Text="{Binding Category}" IsReadOnly="True" Margin="0,0,0,10"/>
+                <TextBlock Text="Час приготування:" FontWeight="Bold"/>
+                <TextBox Text="{Binding CookingTime}" IsReadOnly="True" Margin="0,0,0,10"/>
+                <TextBlock Text="Інгредієнти:" FontWeight="Bold"/>
+                <TextBox Text="{Binding Ingredients}" IsReadOnly="True" Margin="0,0,0,10" TextWrapping="Wrap" AcceptsReturn="True"/>
+                <TextBlock Text="Опис:" FontWeight="Bold"/>
+                <TextBox Text="{Binding Description}" IsReadOnly="True" Margin="0,0,0,10" TextWrapping="Wrap" AcceptsReturn="True"/>
+            </StackPanel>
+        </ScrollViewer>
+
+        <!-- Права частина з фото -->
+        <Image Grid.Column="1" Source="{Binding ImagePath}" Height="300" Margin="10" Stretch="Uniform"/>
+
+        <!-- Кнопка повернення -->
+        <Button Grid.Row="1" Grid.ColumnSpan="2" Content="Повернутися на головний екран" 
+                HorizontalAlignment="Center" Margin="10" Click="BackButton_Click"/>
+    </Grid>
+</Window>
